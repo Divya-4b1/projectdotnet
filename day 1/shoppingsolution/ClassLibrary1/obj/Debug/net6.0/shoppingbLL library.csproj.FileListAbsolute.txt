@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingbLL library.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingbLL library.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingbLL library.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingDALlibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingDALlibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\bin\Debug\net6.0\shoppingmodellibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\refint\shoppingbLL library.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\shoppingbLL library.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\ClassLibrary1\obj\Debug\net6.0\ref\shoppingbLL library.dll

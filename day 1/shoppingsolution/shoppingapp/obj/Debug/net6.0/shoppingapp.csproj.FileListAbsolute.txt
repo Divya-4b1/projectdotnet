@@ -1,0 +1,22 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingapp.exe
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingapp.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingapp.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingapp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingapp.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingmodellibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\refint\shoppingapp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\shoppingapp.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\obj\Debug\net6.0\ref\shoppingapp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingbLL library.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingDALlibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingbLL library.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingapp\bin\Debug\net6.0\shoppingDALlibrary.pdb

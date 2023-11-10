@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\bin\Debug\net6.0\shoppingDALlibrary.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\bin\Debug\net6.0\shoppingDALlibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\bin\Debug\net6.0\shoppingDALlibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\bin\Debug\net6.0\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\bin\Debug\net6.0\shoppingmodellibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\refint\shoppingDALlibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\shoppingDALlibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\obj\Debug\net6.0\ref\shoppingDALlibrary.dll

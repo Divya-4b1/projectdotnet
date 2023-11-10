@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorBLLLibrary.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorBLLLibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorBLLLibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorDALLibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorModelLibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorDALLibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\bin\Debug\net6.0\DoctorModelLibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\refint\DoctorBLLLibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\DoctorBLLLibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\ClincDoctorSolution\DoctorBLLLibrary\obj\Debug\net6.0\ref\DoctorBLLLibrary.dll

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\bin\Debug\net6.0\SolidApp.exe
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\bin\Debug\net6.0\SolidApp.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\bin\Debug\net6.0\SolidApp.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\bin\Debug\net6.0\SolidApp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\bin\Debug\net6.0\SolidApp.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\refint\SolidApp.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\SolidApp.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\SolidAppsolution\SolidApp\obj\Debug\net6.0\ref\SolidApp.dll

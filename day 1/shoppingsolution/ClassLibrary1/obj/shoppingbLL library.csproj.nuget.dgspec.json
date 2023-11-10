@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\ClassLibrary1\\shoppingbLL library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\ClassLibrary1\\shoppingbLL library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\ClassLibrary1\\shoppingbLL library.csproj",
+        "projectName": "shoppingbLL library",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\ClassLibrary1\\shoppingbLL library.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\shoppingDALlibrary.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\shoppingDALlibrary.csproj"
+              },
+              "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\shoppingDALlibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\shoppingDALlibrary.csproj",
+        "projectName": "shoppingDALlibrary",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\shoppingDALlibrary.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingDALlibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj",
+        "projectName": "shoppingmodellibrary",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\shoppingmodellibrary.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\hexaware\\day 1\\shoppingsolution\\shoppingmodellibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

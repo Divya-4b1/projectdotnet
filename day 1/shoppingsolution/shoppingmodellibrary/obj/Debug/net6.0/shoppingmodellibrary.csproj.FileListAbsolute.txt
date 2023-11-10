@@ -1,0 +1,11 @@
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\bin\Debug\net6.0\shoppingmodellibrary.deps.json
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\bin\Debug\net6.0\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\bin\Debug\net6.0\shoppingmodellibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\refint\shoppingmodellibrary.dll
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\shoppingmodellibrary.pdb
+C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingmodellibrary\obj\Debug\net6.0\ref\shoppingmodellibrary.dll
