@@ -7,7 +7,9 @@ using BillingApp.Sevices;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using ShoppingApp.Services;
+using BillingApp.Services;
+using Microsoft.AspNetCore.Cors.Infrastructure;
+using Microsoft.OpenApi.Models;
 
 namespace BillingApp
 {
@@ -19,6 +21,42 @@ namespace BillingApp
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen(opt =>
+            {
+                opt.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    Type = SecuritySchemeType.Http,
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = ParameterLocation.Header,
+                    Description = "JWT Authorization header using the Bearer scheme."
+                });
+
+                opt.AddSecurityRequirement(new OpenApiSecurityRequirement
+                 {
+                     {
+                           new OpenApiSecurityScheme
+                             {
+                                 Reference = new OpenApiReference
+                                 {
+                                     Type = ReferenceType.SecurityScheme,
+                                     Id = "Bearer"
+                                 }
+                             },
+                             new string[] {}
+
+                     }
+                 });
+            });
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("reactApp", opts =>
+                {
+                    opts.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin();
+                });
+            });
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
@@ -37,23 +75,38 @@ namespace BillingApp
             });
             builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<IRepository<int, Bill>, BillRepository>();
+            builder.Services.AddScoped<IRepository<int, BillItems>, BillItemsRepository>();
             builder.Services.AddScoped<ITokenService, TokenService>();
+            builder.Services.AddScoped<IRepository<int, Product>, ProductRepository>();
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IBillService, BillSevice>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
+            // if (!app.Environment.IsDevelopment())
+            // {
+            //     app.UseExceptionHandler("/Home/Error");
+            // }
+            if (app.Environment.IsDevelopment())
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseSwagger();
+                app.UseSwaggerUI();
+                //app.UseExceptionHandler("/Home/Error");
             }
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseCors("reactApp");
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
+            app.MapControllers();
 
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+            //app.MapControllerRoute(
+               // name: "default",
+               // pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = shoppingDALlibrary
 build_property.ProjectDir = C:\Users\ADMIN\OneDrive\Documents\hexaware\day 1\shoppingsolution\shoppingDALlibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

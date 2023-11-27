@@ -11,7 +11,7 @@ namespace ShoppingApp.Models
         public float Price { get; set; }
         [Range(1, 100, ErrorMessage = "Quantity has to be minimum 1 and maximum 100")]
         public int Quantity { get; set; }
-        public string? Picture { get; set; }
+       public string? Picture { get; set; }
         public ICollection<CartItems>? CartItems { get; set; }
     }
 }
