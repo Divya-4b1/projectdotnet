@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "vNSVmUhOCHterFyCAubqcU8PbSblQo+CO22LVC/t8OM=",
+  "Source": "ReimbursementTrackerApp",
+  "BasePath": "_content/ReimbursementTrackerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReimbursementTrackerApp\\wwwroot",
+      "Source": "ReimbursementTrackerApp",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\",
+      "BasePath": "_content/ReimbursementTrackerApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\Documents\\9bac1378-d88a-47c2-bbe2-fcc9ff359cc0_Screenshot (573).png",
+      "SourceId": "ReimbursementTrackerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\",
+      "BasePath": "_content/ReimbursementTrackerApp",
+      "RelativePath": "Documents/9bac1378-d88a-47c2-bbe2-fcc9ff359cc0_Screenshot (573).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Documents\\9bac1378-d88a-47c2-bbe2-fcc9ff359cc0_Screenshot (573).png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\Documents\\f4c85602-a286-4832-ab3d-0d3ff03fc066_Screenshot (604).png",
+      "SourceId": "ReimbursementTrackerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\",
+      "BasePath": "_content/ReimbursementTrackerApp",
+      "RelativePath": "Documents/f4c85602-a286-4832-ab3d-0d3ff03fc066_Screenshot (604).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Documents\\f4c85602-a286-4832-ab3d-0d3ff03fc066_Screenshot (604).png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\Documents\\fa55794d-5bcc-47c7-93e0-6a9e44274519_IMG_20231106_144230.jpg",
+      "SourceId": "ReimbursementTrackerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\Reimbursement-Tracker-HRApp-master\\Reimbursement-Tracker-HRApp-master\\ReimbursementTrackerApp\\wwwroot\\",
+      "BasePath": "_content/ReimbursementTrackerApp",
+      "RelativePath": "Documents/fa55794d-5bcc-47c7-93e0-6a9e44274519_IMG_20231106_144230.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Documents\\fa55794d-5bcc-47c7-93e0-6a9e44274519_IMG_20231106_144230.jpg"
+    }
+  ]
+}

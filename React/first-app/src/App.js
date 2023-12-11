@@ -1,88 +1,69 @@
-import logo from './logo.svg';
 import { useState } from 'react';
 import './App.css';
-import AddProduct from './components/AddProduct';
-import Products from './components/Products';
-import RegisterUser from './components/RegisterUser';
-import Loginuser from './components/Loginuser';
-import ProductListing from './components/ProductListing';
 import Cart from './components/Cart';
+import ProductListing from './components/ProductListing';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Menu from './components/Menu';
+import RegisterUser from './components/RegisterUser';
+import DisplayProduct from './components/DisplayProduct';
+import Products from './components/Products';
+import Protected from './Protected';
 
 
 
 
-//function App() {
- // var scores = [90,100,56,89,73];
-  //return (
-   // <div className="App">
-     //     <div className="container text-center">
-     //   <div className="row">
-     //     <div className="col">
-     //       <Products/> 
-     //     </div>
-      //    <div className="col">
-        //    <AddProduct/>
-          //</div>
-       // </div>
-   //// </div>
-    // <div>
-        //  {scores.map((score)=>
-        //    <li key={score}>{score}</li>
-        //  )}
-    //  </div>
-    //  <div>
-        
-    //  </div>
-   // </div>
-   
+
+function App() {
+  var products =[
+    {
+       "id":101,
+       "name":"Pencil",
+       "quantity":10,
+       "price":5
+   },
+   {
+       "id":102,
+       "name":"Pen",
+       "quantity":3,
+       "price":25
+   },
+   {
+       "id":103,
+       "name":"Eraser",
+       "quantity":7,
+       "price":3
+   }
+]
+var [cart,setCart]=useState([]);
+var addToCart=(pid)=>{
+  setCart([...cart,pid])
+  console.log(cart)
   
-  
-  // <div><RegisterUser/></div>
-  // <div><Loginuser/></div>
-
-  function App() {
-    var products =[
-      {
-         "id":101,
-         "name":"Pencil",
-         "quantity":10,
-         "price":5
-     },
-     {
-         "id":102,
-         "name":"Pen",
-         "quantity":3,
-         "price":25
-     },
-     {
-         "id":103,
-         "name":"Eraser",
-         "quantity":7,
-         "price":3
-     }
-  ]
-  var [cart,setCart]=useState([]);
-  var addToCart=(pid)=>{
-    setCart([...cart,pid])
-    console.log(cart)
-    
+}
+var [IsLoggedIn,setLoggedIn]=useState(false);
+var changeState=()=>{
+  var token = localStorage.getItem("token");
+  if(token){
+    setLoggedIn(true);
   }
-  
-    return (
-      <div>
-      <div className="container">
-          <div className="row">
-            <div class="col">
-             <ProductListing products={products} onAddClick={addToCart}/>
-            </div>
-            <div class="col">
-             <Cart cartItems={cart} />
-            </div>
-          </div>
-          
-        </div>
-      </div>
-    );
-  }
-  
-  export default App;
+}
+
+  return (
+    <div>
+      <BrowserRouter>
+        <Menu/>
+        <Routes>
+          <Route path='/' element={<RegisterUser/>}/>
+          <Route path="products" element={<ProductListing products={products}/>}/>
+          <Route path="shop" element={<Protected>
+              <Products/>
+            </Protected>
+          }/>
+          <Route path="cart" element={<Cart/>}/>
+        </Routes>
+      </BrowserRouter>
+    </div>
+  );
+}
+
+export default App;

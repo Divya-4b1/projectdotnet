@@ -8,35 +8,50 @@ function RegisterUser(){
     const [password,setPassword] = useState("");
     const [repassword,setrePassword] = useState("");
     const [role,setRole] = useState("");
+    var [usernameError,setUsernameError]=useState("");
+    var checkUSerData = ()=>{
+        if(username=='')
+        {
+            setUsernameError("Username cannot be empty");
+            return false;
+        }
+           
+        if(password=='')
+            return false;
+        if(role=='Select Role')
+            return false;
+        return true;
+    }
     const signUp = (event)=>{
         event.preventDefault();
-        var user = {
-            "data":{
-                "username": username,
-                "role":	role,
-                "password":password
+        var checkData = checkUSerData();
+        if(checkData==false)
+        {
+            alert('please check yor data')
+            return;
         }
-    };
-        //user = JSON.stringify(user)
-        console.log(user);
-        axios.post("http://localhost:5054/api/Customer",{
+        
+        axios.post("http://localhost:5054/api/Customer/Login",{
             username: username,
             role:	role,
             password:password
     })
         .then((userData)=>{
-            console.log(userData)
+            var token = userData.data.token;
+            localStorage.setItem("token",token);
+
         })
         .catch((err)=>{
             console.log(err)
         })
-        
     }
+    
     return(
         <form className="registerForm">
             <label className="form-control">Username</label>
             <input type="text" className="form-control" value={username}
                     onChange={(e)=>{setUsername(e.target.value)}}/>
+           <label className="alert alert-danger">{usernameError}</label>
             <label className="form-control">Password</label>
             <input type="password" className="form-control" value={password}
                     onChange={(e)=>{setPassword(e.target.value)}}/>
@@ -59,3 +74,4 @@ function RegisterUser(){
 }
 
 export default RegisterUser;
+                   

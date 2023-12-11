@@ -21,7 +21,7 @@ namespace ShoppingApp.Controllers
             _productService = productService;
             _logger = logger;
         }
-       // [Authorize]
+        [Authorize]
         [HttpGet]
         public ActionResult Get()
         {
@@ -38,7 +38,7 @@ namespace ShoppingApp.Controllers
             }
             return BadRequest(errorMessage);
         }
-      //  [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public ActionResult Create(Product product)
         {
